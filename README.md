@@ -91,7 +91,9 @@ int main()
 }
 ```
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/db92bd64-1fdc-4dd7-afb0-9c8c07e6aaab)
+![377374996-ccfee339-5608-4a1c-9728-f35454dc432a](https://github.com/user-attachments/assets/29cd6d97-a0ba-4cee-b0a7-88ab9451c948)
+
+
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
